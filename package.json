@@ -1,0 +1,27 @@
+{
+  "name": "johnny-five-example",
+  "version": "1.0.0",
+  "description": "This repository contains a base project using Johnny-Five.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atbuzz/johnny-five-example.git"
+  },
+  "keywords": [
+    "johnny-five",
+    "arduino",
+    "javascript"
+  ],
+  "author": "atbuzz",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/atbuzz/johnny-five-example/issues"
+  },
+  "homepage": "https://github.com/atbuzz/johnny-five-example#readme",
+  "devDependencies": {
+    "johnny-five": "^0.15.0"
+  }
+}
