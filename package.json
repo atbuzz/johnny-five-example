@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/atbuzz/johnny-five-example#readme",
   "devDependencies": {
+    "jest": "^23.0.1",
     "johnny-five": "^0.15.0"
   }
 }
